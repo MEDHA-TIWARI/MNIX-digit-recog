@@ -25,14 +25,14 @@
   margin: 0 auto;
   padding: 2% 15%;
   padding-bottom: 0;
-  background-color: yellowgreen;
+  background-color: rgb(243, 229, 26);
 }
 
 
 .welcome{
    text-align: center;
    position: relative;
-   color: rgb(190, 5, 5);
+   color: rgb(241, 245, 19);
    background-color: rgb(5, 1, 0);
    padding-top: 1%;
    padding-bottom: 1%;
@@ -85,7 +85,8 @@
   padding: 1.5% 15%;
   margin: 0 auto;
   text-align: center;
-  background-color: rgb(171, 206, 16);
+  color: whitesmoke;
+  background-color: rgb(10, 12, 1);
 }
 
 .btn {
